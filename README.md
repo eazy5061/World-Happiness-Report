@@ -44,7 +44,7 @@ Strongest Positive Correlations:
 
 <b><ins>Findings:</ins></b>
 <br>
-* From the table above, we can see that top 10 countries are mostly from Europe and only New Zealand is a non-Europe country. Singapore is ranked number 33.
+* From the table above, We can see that top 10 countries are mostly from Europe, only Canada and New Zealand are non-European countries. Singapore ranked in number 33.
 
 <br>
 
